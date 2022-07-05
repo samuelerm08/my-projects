@@ -1,0 +1,7 @@
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\bin\Debug\PRE-PARCIAL2.exe.config
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\bin\Debug\PRE-PARCIAL2.exe
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\bin\Debug\PRE-PARCIAL2.pdb
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\obj\Debug\PRE-PARCIAL2.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\obj\Debug\PRE-PARCIAL2.exe
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\obj\Debug\PRE-PARCIAL2.pdb
+C:\Users\samue\OneDrive\Escritorio\PROGRAMACION\PARCIAL\PRE-PARCIAL\PRE-PARCIAL2\obj\Debug\PRE-PARCIAL2.csproj.AssemblyReference.cache
